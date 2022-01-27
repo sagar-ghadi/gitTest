@@ -2,8 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>Cake count is : {{ $store.state.cakeCount }}</p>
-    <button @click="cakeCountIncrement()">Increment Cake Count</button>
-    <button @click="cakeCountDecrement()">Decrement Cake Count</button>
+    <button @click="cakeCountIncrement()">Increment Cake Count by 20</button>
+    <button @click="cakeCountDecrement()">Decrement Cake Count by 20</button>
   </div>
 </template>
 
