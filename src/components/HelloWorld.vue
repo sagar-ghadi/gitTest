@@ -14,7 +14,7 @@ export default {
   data() {
     return {
       show: true,
-      msg: "Welcome to Your Vue.js App",
+      msg: "Welcome to Your Vue.js App Sagar Ghadi",
     };
   },
   methods: {
